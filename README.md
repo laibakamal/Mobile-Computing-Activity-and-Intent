@@ -1,1 +1,1 @@
-"# Mobile-Computing-Activity-and-Intent" 
+This repository contains android studio project for understanding of activity and intent.
